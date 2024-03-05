@@ -6,5 +6,5 @@ Insurace domain.
 This project front is based on simple HTML, CSS and Angular Js ad Backend is Java Spring Boot.
 
 In order to run the application use port 8081....
-I will add here all the to do coomans
-sss
+I will add here all the to do commands
+we will check the maven dependency plugin for testing pipeline
