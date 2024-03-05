@@ -8,4 +8,4 @@ This project front is based on simple HTML, CSS and Angular Js ad Backend is Jav
 In order to run the application use port 8081....
 I will add here all the to do commands
 we will check the maven dependency plugin for testing pipeline
-now host ip http://3.93.220.14/
+now host ip http://3.93.220.14/ for the jenkins  server
