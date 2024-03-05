@@ -11,3 +11,4 @@ we will check the maven dependency plugin for testing pipeline
 now host ip http://3.93.220.14/ for the jenkins  server
 dev server ip 54.82.61.74
 prod server ip 54.89.159.175
+removed the last docker image from the dev server
